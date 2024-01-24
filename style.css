@@ -1,0 +1,56 @@
+h1{
+font-family: Arial;
+font-size: 4em;
+color:#692204;
+text-align :center;
+text-decoration:underline ;
+text-decoration-style: wavy;
+background-color:#ed9734;
+}
+body{
+font-family: Arial Black;
+font-style: normal;
+color: black;
+background:linear-gradient(to right,#96ed80,#edc66b);
+
+}
+h2{ 
+font-family: Arial;
+font-size:3em;
+color:#e04410;
+text-align :left;
+text-shadow: 2px 2px 4px #999;
+
+}
+h3{
+font-family: Arial;
+font-size:2em;
+color:#77a308;
+text-align :left;
+}
+p{
+font-family: Arial,sans-serif;
+font-size: 1em;
+font-weight:bold;
+}
+.leo{
+font-style: oblique;
+font-size:2em;
+ }
+footer{
+text-align: center;}
+nav{
+font-size:2em;
+font-style:italic;
+color:black;
+}
+ul {
+  list-style-type: cambodian;
+}
+img{
+width: 30%;
+height: 30%;
+}
+
+
+
